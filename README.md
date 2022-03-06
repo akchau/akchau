@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @akchau
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Django, Python
-- 📫 How to reach me gleb.lazarev20@yandex.ru
+- Hi, I’m Gleb Lazarev @akchau
+- I’m interested backend development and industrial automation
+- I’m currently learning Django, Python
+- Email - gleb.lazarev20@yandex.ru 
+- Telegramm - @ lgggggglggggglgggglggglgg
 
-<!---
-akchau/akchau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
