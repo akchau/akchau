@@ -5,7 +5,7 @@
 - Telegramm - https://t.me/lg_gl_1
 
 My projects:
-http://akchau.pythonanywhere.com/ - social network
-@AkchauTestBot - TG bot
-
+- http://akchau.pythonanywhere.com/ - social network
+- @AkchauTestBot - TG bot
+- @Akchau_Practikum_bot - TG bot for Yandex Practicum review notification
 
