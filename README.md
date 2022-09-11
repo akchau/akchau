@@ -5,6 +5,6 @@ My stack🔧 - Python/Django/Django REST Framework/PostgeSQL/MySQL/Docker/Yandex
 
 My сontacts ✉:
 - Email - gleb.lazarev20@yandex.ru 
-- Telegramm - @lg_gl_1
+- Telegram - @lg_gl_1
 - LinkedIN - www.linkedin.com/in/gleb-lazarev
 
