@@ -1,11 +1,9 @@
-- Hi, I’m Gleb Lazarev @akchau
-- I’m interested backend development and industrial automation
-- I’m currently learning Django, Python
-- Email - gleb.lazarev20@yandex.ru 
-- Telegramm - https://t.me/lg_gl_1
+# Hi! I’m Gleb. Backend developmer and industrial automation engineer🈺.
+### Yandex Practicum student
 
-My projects:
-- http://akchau.pythonanywhere.com/ - social network
-- @AkchauTestBot - TG bot
-- @Akchau_Practikum_bot - TG bot for Yandex Practicum review notification
+My stack🔧 - Python/Django/Django REST Framework/PostgeSQL/MySQL/Docker/YandexCloud/HTML/CSS/Unittest/Nginix/
+My сontacts ✉:
+- Email - gleb.lazarev20@yandex.ru 
+- Telegramm - @lg_gl_1
+- LinkedIN - www.linkedin.com/in/gleb-lazarev
 
