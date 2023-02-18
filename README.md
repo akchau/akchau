@@ -2,7 +2,7 @@
 ### Yandex Practicum student👨‍🎓
 
 ### My stack🔧
-`Python` `Django` `DRF` `PostgreSQL` `Docker` `YandexCloud` `HTML` `CSS` `Unittest` `nginx` `Алгоритмы` `Linux` `Git` `telegram-bot`
+`Python` `Django` `DRF` `PostgreSQL` `Docker` `YandexCloud` `HTML` `CSS` `Unittest` `nginx` `Алгоритмы` `Linux` `Git` `Телеграм боты`
 
 ### My сontacts ✉:
 - Email - gleb.lazarev20@yandex.ru 
