@@ -39,13 +39,11 @@ https://t.me/AkchauTestBot
 погоды, время и дату, картинки).
 Стек: Python, python-telegram-bot, requests
 
-- Practikum bot - телеграмм бот, который обращается к API Яндекс.Практикума и в случае обновления статуса домашней работы присылает уведомление в телеграмм.
+- [Practikum bot](https://github.com/akchau/homework_bot) - телеграмм бот, который обращается к API Яндекс.Практикума и в случае обновления статуса домашней работы присылает уведомление в телеграмм.
 Стек: Python, python-telegram-bot, requests
-Git: https://github.com/akchau/homework_bot
 
-- fitnes tracker
+- [fitnes tracker](https://github.com/akchau/fitness_tracker_python)
 Я работал над модулем финтес-трекера, который по параметрам тренировки может производить расчеты калорий, интенсивности, расстояния тренировки для трех видов спорта: бег, ходьба, плавание
 Проект написан на чистом Python для отработки принципов ООП.
 Стек: Python, ООП
-Git: https://github.com/akchau/fitness_tracker_python
 
