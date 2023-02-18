@@ -9,7 +9,7 @@ My сontacts ✉:
 - LinkedIN - www.linkedin.com/in/gleb-lazarev
 - Хабр - https://career.habr.com/akchau
 
-Projects
+# Проекты
 
 http://51.250.70.35/
 - [foodgram](https://github.com/akchau/foodgram-project-react) - Сервис хранения рецептов.
