@@ -43,6 +43,7 @@ API: https://github.com/akchau/api_final_yatube
 Стек: Python, python-telegram-bot, requests
 
 - [fitnes tracker](https://github.com/akchau/fitness_tracker_python)
+
 Я работал над модулем финтес-трекера, который по параметрам тренировки может производить расчеты калорий, интенсивности, расстояния тренировки для трех видов спорта: бег, ходьба, плавание
 Проект написан на чистом Python для отработки принципов ООП.
 Стек: Python, ООП
