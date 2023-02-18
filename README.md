@@ -24,19 +24,17 @@ Web: http://51.250.70.35/
 Проект: http://akchau.pythonanywhere.com/
 API: https://github.com/akchau/api_final_yatube
 
-- right_hand - Мой пет-проект. Сервис-личный ассистент со встроенной CRM. Разрабатываю бекэнд приложения на Django.
+- [right_hand](https://github.com/akchau/right_hand) - Мой пет-проект. Сервис-личный ассистент со встроенной CRM. Разрабатываю бекэнд приложения на Django.
 Стек: Django, Unittest, HTML, SQLite
-Git: https://github.com/akchau/right_hand
 
-- apiYamdb - Сервис для коллекционирования различных произведений, отзывов на них и подписок на авторов.
+- [apiYamdb](https://github.com/akchau/api_yamdb) - Сервис для коллекционирования различных произведений, отзывов на них и подписок на авторов.
 Я разрабатывал управление пользователем и механизм регистрации по JWT-токенам.
 Стек: DRF, simple-JWT
-Git: https://github.com/akchau/api_yamdb
 
-- Algoritmix_task 1,2,3 - Решение финальных алгоритмических задач.
-https://github.com/akchau/Algoritmix_task_1_sprint
-https://github.com/akchau/Algoritmix_task_2_sprint
-https://github.com/akchau/Algoritmix_task_3_sprint
+- Algoritmix_task [1](https://github.com/akchau/Algoritmix_task_1_sprint),[2](https://github.com/akchau/Algoritmix_task_2_sprint),[3](https://github.com/akchau/Algoritmix_task_3_sprint) - Решение финальных алгоритмических задач.
+
+
+
 
 - fitnes tracker
 Я работал над модулем финтес-трекера, который по параметрам тренировки может производить расчеты калорий, интенсивности, расстояния тренировки для трех видов спорта: бег, ходьба, плавание
