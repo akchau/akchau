@@ -1,7 +1,7 @@
 # Hi! I’m Gleb. Backend developmer🐍 and industrial automation engineer🈺.
 ### Yandex Practicum student👨‍🎓
 
-My stack🔧 - 'Python' / Django/DRF/PostgreSQL/Docker/YandexCloud/HTML/CSS/Unittest/nginx/Алгоритмы/Linux/Git/telegram-bot.
+My stack🔧 - `Python` `Django` `DRF` `PostgreSQL` `Docker` `YandexCloud` `HTML` `CSS` `Unittest` `nginx` `Алгоритмы` `Linux` `Git` `telegram-bot`
 
 My сontacts ✉:
 - Email - gleb.lazarev20@yandex.ru 
