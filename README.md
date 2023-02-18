@@ -10,7 +10,8 @@ My сontacts ✉:
 - Хабр - https://career.habr.com/akchau
 
 Projects
-Web: http://51.250.70.35/
+
+http://51.250.70.35/
 - [foodgram](https://github.com/akchau/foodgram-project-react) - Сервис хранения рецептов.
 Я разработал бэкенд приложения на DRF по спецификации для React приложения. Поднял сайт
 в контейнерах Docker на удаленном сервере YandexCloud.
@@ -33,8 +34,14 @@ API: https://github.com/akchau/api_final_yatube
 
 - Algoritmix_task [1](https://github.com/akchau/Algoritmix_task_1_sprint),[2](https://github.com/akchau/Algoritmix_task_2_sprint),[3](https://github.com/akchau/Algoritmix_task_3_sprint) - Решение финальных алгоритмических задач.
 
+https://t.me/AkchauTestBot
+- [kittybot](https://github.com/akchau/kittybot) - телеграмм бот, который обращается к API разных сервисов и присылает пользователю информацию (прогноз 
+погоды, время и дату, картинки).
+Стек: Python, python-telegram-bot, requests
 
-
+- Practikum bot - телеграмм бот, который обращается к API Яндекс.Практикума и в случае обновления статуса домашней работы присылает уведомление в телеграмм.
+Стек: Python, python-telegram-bot, requests
+Git: https://github.com/akchau/homework_bot
 
 - fitnes tracker
 Я работал над модулем финтес-трекера, который по параметрам тренировки может производить расчеты калорий, интенсивности, расстояния тренировки для трех видов спорта: бег, ходьба, плавание
@@ -42,12 +49,3 @@ API: https://github.com/akchau/api_final_yatube
 Стек: Python, ООП
 Git: https://github.com/akchau/fitness_tracker_python
 
-- kittybot - телеграмм бот, который обращается к API разных сервисов и присылает пользователю информацию (прогноз погоды, время и дату, картинки).
-Стек: Python, python-telegram-bot, requests
-Бот: https://t.me/AkchauTestBot
-Git: https://github.com/akchau/kittybot
-
-
-- Practikum bot - телеграмм бот, который обращается к API Яндекс.Практикума и в случае обновления статуса домашней работы присылает уведомление в телеграмм.
-Стек: Python, python-telegram-bot, requests
-Git: https://github.com/akchau/homework_bot
