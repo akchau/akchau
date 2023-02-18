@@ -10,11 +10,11 @@ My сontacts ✉:
 - Хабр - https://career.habr.com/akchau
 
 Projects
-- foodgram - Сервис хранения рецептов.
+Web: http://51.250.70.35/
+- [foodgram](https://github.com/akchau/foodgram-project-react) - Сервис хранения рецептов.
 Я разработал бэкенд приложения на DRF по спецификации для React приложения. Поднял сайт
 в контейнерах Docker на удаленном сервере YandexCloud.
-Git: https://github.com/akchau/foodgram-project-react
-Web: http://51.250.70.35/
+
 
 - blog - Социальная сеть с функцией авторизации и ведения микроблога.
 Я занимался разработкой бэкэнда:
