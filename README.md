@@ -5,7 +5,7 @@ My stack🔧 - Python/Django/DRF/PostgreSQL/Docker/YandexCloud/HTML/CSS/Unittest
 
 My сontacts ✉:
 - Email - gleb.lazarev20@yandex.ru 
-- Telegram - @lg_gl_1
+- Telegram - [@lg_gl_1](https://t.me/lg_gl_1)
 - LinkedIN - www.linkedin.com/in/gleb-lazarev
 - Хабр - https://career.habr.com/akchau
 
