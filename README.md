@@ -34,8 +34,7 @@ API: https://github.com/akchau/api_final_yatube
 
 - Algoritmix_task [1](https://github.com/akchau/Algoritmix_task_1_sprint),[2](https://github.com/akchau/Algoritmix_task_2_sprint),[3](https://github.com/akchau/Algoritmix_task_3_sprint) - Решение финальных алгоритмических задач.
 
-  https://t.me/AkchauTestBot
-- [kittybot](https://github.com/akchau/kittybot) - телеграмм бот, который обращается к API разных сервисов и присылает пользователю информацию (прогноз 
+- [Бот](https://t.me/AkchauTestBot) - [kittybot](https://github.com/akchau/kittybot) - телеграмм бот, который обращается к API разных сервисов и присылает пользователю информацию (прогноз 
 погоды, время и дату, картинки).
 Стек: Python, python-telegram-bot, requests
 
