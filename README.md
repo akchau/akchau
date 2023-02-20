@@ -24,6 +24,7 @@ http://51.250.70.35/
 Выложил проект на сервере Yandex.Cloud
 Стек: Python, Django, DRF, SQLite, DRF, Bootstrap, HTML, Unittest, Docker, nginx+Guincorn, PostgreSQL
 Проект: http://akchau.pythonanywhere.com/
+
 API: https://github.com/akchau/api_final_yatube
 
 - [right_hand](https://github.com/akchau/right_hand) - Мой пет-проект. Сервис-личный ассистент со встроенной CRM. Разрабатываю бекэнд приложения на Django.
