@@ -23,6 +23,8 @@ http://51.250.70.35/
 Выложил проект на сервере Yandex.Cloud
 Стек: Python, Django, DRF, SQLite, DRF, Bootstrap, HTML, Unittest, Docker, nginx+Guincorn, PostgreSQL
 
+- [menu](https://github.com/akchau/test_task_UpTrade#tree) - Меню для Django приложения. Автоматически генерирует древовидное меню по заданной родительской секции. Стек Django Python.
+
 - [right_hand](https://github.com/akchau/right_hand) - Мой пет-проект. Сервис-личный ассистент со встроенной CRM. Разрабатываю бекэнд приложения на Django.
 Стек: Django, Unittest, HTML, SQLite
 
