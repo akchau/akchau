@@ -1,8 +1,8 @@
-# Hi! I’m Gleb. Python developmer🐍 and industrial automation engineer🈺.
+# Hi! I’m Gleb. Python developer.
 ### Astra Linux developer
 
 ### My stack🔧
-`Python` `Django` `DRF` `PostgreSQL` `Docker` `HTML` `CSS` `Unittest` `nginx` `Алгоритмы и структуры данных` `Linux` `Git` `REST-API` `JWT` `Postman` `djoser` `Bootstrap` `Gunicorn` `nginx` `Telegram bot`, 'fastapi', TypeScript, React
+`Python` `Django` `DRF` `PostgreSQL` `MongoDB` `Docker` `HTML` `CSS` `unittest` `nginx` `Linux` `git` `REST-API` `Postman` `Bootstrap` `React` `Telegram bot` `fastapi` `TypeScript`
 
 ### My сontacts ✉:
 - Email - gleb.lazarev20@yandex.ru 
