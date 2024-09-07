@@ -10,4 +10,4 @@
 
 - [yandex-password-backup](https://gitflic.ru/project/glazarev/yandex-password-backup) - *Сервис для работы с личными паролями в хранилищаx.* [Python]
 
-- 
+- [test_task_UpTrade](https://github.com/akchau/test_task_UpTrade/tree/main) - *Решение тестового задания для вакансии Junior Python Backend Developer. 2022 г.* 
