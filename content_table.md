@@ -7,3 +7,7 @@
 - [right_hand](https://github.com/akchau/right_hand/blob/main/README.md) - *Личная СRM-система* [`Django`]
 
 - [mock_server](https://gitflic.ru/project/glazarev/mock_server) - *Сервер для тестирования, отладки и развлечений* [`Fastapi`]
+
+- [yandex-password-backup](https://gitflic.ru/project/glazarev/yandex-password-backup) - *Сервис для работы с личными паролями в хранилищаx.* [Python]
+
+- 
