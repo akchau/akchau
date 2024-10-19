@@ -10,4 +10,4 @@
 
 Пакеты
 - [event-bus](https://github.com/akchau/event-bus?tab=readme-ov-file#event-bus) - *Шина событий* [`Python`]
-- [sortes](https://github.com/sofiiila/sorter) - *Основные алгоритмы сортировок* [`Python`]
+- [sorters](https://github.com/sofiiila/sorter) - *Основные алгоритмы сортировок* [`Python`]
