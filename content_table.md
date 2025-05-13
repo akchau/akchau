@@ -8,9 +8,7 @@
 - [mock_server](https://github.com/akchau/mock_server) - *Простой сервер, который позволяет имитировать работу веб-сервера. Он принимает запросы на любой путь и метод, логирует информацию о них, а также может возвращать разные ответы в зависимости от настроек. Сервер можно использовать для тестирования клиентских приложений, эмуляции поведения API, проверки обработки ошибок и других задач.*
 
 ### Обучающие проекты:
-- [hh_selenium_bot] - (https://github.com/akchau/hh_selenium_bot) - *Автоматизированная программа для сбора данных с сайта [hh.ru]* (https://hh.ru)
-- [het](https://github.com/akchau/het) - *Финансовый ассистент для ведения семейного бюджета*. [`Django`, `SQLite`]
-- [right_hand](https://github.com/akchau/right_hand/blob/main/README.md) - *Личная СRM-система* [`Django`]
+- [hh_selenium_bot] - (https://github.com/akchau/hh_selenium_bot) - *Автоматизированная программа для сбора данных с сайта [hh.ru](https://hh.ru)*[Selenium]
 - [yandex-password-backup](https://github.com/akchau/yandex-passwords-backup) - *Сервис для работы с личными паролями в хранилищаx.* [Python]
 
 ### Задачки:
