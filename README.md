@@ -8,6 +8,8 @@
 
 ### Projects
 🔗 Магазин лазерной сварки: https://iitecnology.ru
+🔗 Сайт фирмы по благоустройству: [https://bgo62.ru/](https://bgo62.ru/)
+
 
 ### Contacts:
 - Email: gleb.lazarev20@yandex.ru 
