@@ -11,7 +11,7 @@
 - [hh_selenium_bot](https://github.com/akchau/hh_selenium_bot) - *Автоматизированная программа для сбора данных с сайта [hh.ru](https://hh.ru)*[Selenium]
 - [yandex-password-backup](https://github.com/akchau/yandex-passwords-backup) - *Сервис для работы с личными паролями в хранилищаx.* [Python]
 - [rock-paper-scissors](https://github.com/akchau/rock-paper-scissors) - *Консольная игра в камень-ножницы-бумага.* [Python]
-- [password_generator](https://github.com/akchau/password_generator)
+- [password_generator](https://github.com/akchau/password_generator) - *Простой генератор устойчивых паролей.* [Python]
 
 ### Задачки:
 - [price_analyzer](https://github.com/akchau/price_analyzer) - *Консольная утилита для поиска в прайс-листах рыбного магазина. [`Python`]
