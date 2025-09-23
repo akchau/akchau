@@ -12,6 +12,7 @@
 - [yandex-password-backup](https://github.com/akchau/yandex-passwords-backup) - *Сервис для работы с личными паролями в хранилищаx.* [Python]
 - [rock-paper-scissors](https://github.com/akchau/rock-paper-scissors) - *Консольная игра в камень-ножницы-бумага.* [Python]
 - [password_generator](https://github.com/akchau/password_generator) - *Простой генератор устойчивых паролей.* [Python]
+- [euler_project](https://github.com/akchau/euler_project_tasks) - *Решение задач с ресурса `https://projecteuler.net`.* [Python]
 
 ### Задачки:
 - [price_analyzer](https://github.com/akchau/price_analyzer) - *Консольная утилита для поиска в прайс-листах рыбного магазина. [`Python`]
