@@ -9,4 +9,3 @@
 ### Contacts:
 - Email: gleb.lazarev20@yandex.ru 
 - Tg: [@lg_gl_1](https://t.me/lg_gl_1)
-- [github](https://github.com/akchau/)
