@@ -4,7 +4,8 @@
 [My public Repositories ------------------->](https://github.com/akchau/akchau/blob/main/content_table.md)
 
 ### My stack
-`Python` `Django` `fastapi` `DRF` `PostgreSQL` `MongoDB` `Docker` `HTML` `CSS` `unittest` `nginx` `Linux` `Bootstrap` `React` `Telegram bot` `TypeScript`
+`Python` `Django` `FastApi` `DRF` `PostgreSQL` `MongoDB` `Redis` `Docker` `HTML` `CSS` `unittest` `nginx` `Linux` `Bootstrap` `React` `Telegram bot` `TypeScript`
+`htmx`
 
 ### Contacts:
 - Email: gleb.lazarev20@yandex.ru 
