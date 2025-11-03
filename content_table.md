@@ -5,7 +5,8 @@
 - [sorters](https://github.com/sofiiila/sorter) - *Основные алгоритмы сортировок* [`Python`]
 
 ### Тулзы:
-- [obsidian-mistral-ai-rag-system](https://github.com/akchau/simple_rag_system/) - *Система поиска в базе знаний с дополнением в LLM Mistral AI*
+- [tsb](https://github.com/akchau/tsb) - *Телеграмм бот технической поддрежки* [`Python`] [`python-telegram-bot`] [`sqlalchemy`]
+- [obsidian-mistral-ai-rag-system](https://github.com/akchau/simple_rag_system/) - *Система поиска в базе знаний с дополнением в LLM Mistral AI* [`Python`]
 - [mock_server](https://github.com/akchau/mock_server) - *Простой сервер, который позволяет имитировать работу веб-сервера. Он принимает запросы на любой путь и метод, логирует информацию о них, а также может возвращать разные ответы в зависимости от настроек. Сервер можно использовать для тестирования клиентских приложений, эмуляции поведения API, проверки обработки ошибок и других задач.* [`FastAPI`]
 - [mistral-cli](https://github.com/akchau/mistral-test) - *Консольный клиент для LLM Mistral https://chat.mistral.ai/chat.* [`Python`]
 
