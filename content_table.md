@@ -13,7 +13,8 @@
 ### Обучающие проекты:
 - [hh_selenium_bot](https://github.com/akchau/hh_selenium_bot) - *Автоматизированная программа для сбора данных с сайта [hh.ru](https://hh.ru)*[`Selenium`]
 - [yandex-password-backup](https://github.com/akchau/yandex-passwords-backup) - *Сервис для работы с личными паролями в хранилищаx.* [`Python`]
-- [rock-paper-scissors](https://github.com/akchau/rock-paper-scissors) - *Консольная игра в камень-ножницы-бумага.* [`Python`]
+- [rock-paper-scissors](https://github.com/akchau/rock-paper-scissors) - *Консольная игра в камень-ножницы-бумага на Python.* [`Python`]
+- [rock-paper-scissors-go](https://github.com/akchau/rock-paper-scissors-go) - *Консольная игра в камень-ножницы-бумага на Go.* [`Go`]
 - [password_generator](https://github.com/akchau/password_generator) - *Простой генератор устойчивых паролей.* [`Python`]
 - [euler_project](https://github.com/akchau/euler_project_tasks) - *Решение задач с ресурса `https://projecteuler.net`.* [`Python`]
 
